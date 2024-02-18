@@ -9,6 +9,7 @@ The following picture illustrates the database's structure:
 
 <img src=dvd-rental-sample-database-diagram.png width=80% />
 
+
 ## Tasks
 
 1. Fork this repository and clone it on the lambda server.
